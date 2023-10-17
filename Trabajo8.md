@@ -39,6 +39,7 @@ FinProceso
 
 ```
 
+<img src="imagenes/Flujo1.png" width="50%"/>
 
 ```
 Proceso FigurasJess
@@ -90,7 +91,7 @@ Proceso FigurasJess
 FinProceso
 
 ```
-
+<img src="imagenes/Flujo2.png" width="50%"/>
 
 [**Menu**](README.md)
 
