@@ -3,7 +3,7 @@ Archivos/20MayorMenor.psc
 
 ```
 
-Proceso MayorMenor20aJess
+Proceso MayorMenorJess
 	Definir mayors,menors,num,i Como Entero;
 	Definir prom,suma Como Real;
 	
