@@ -1,3 +1,5 @@
+Archivos/Pseudocódigo 2.3.psc
+
 ```
 
 subproceso ingresarVehiculo(ingresado CANTIDADPUESTOS)
